@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+form {
+    color: black;
+}
+h2 {
+    color: darkslategrey;
+}
+a {
+    margin-left: 100px;
+    column-rule: 0cqmax;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+a:hover {
+    color: coral;
+}
